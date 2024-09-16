@@ -1,0 +1,10 @@
+numpy
+pandas
+faiss-cpu
+requests
+langchain
+streamlit
+tf-keras
+sentence_transformers
+bs4
+python-dotenv
